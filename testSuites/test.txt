@@ -1,5 +1,0 @@
-Ths is s first sample file
-
-Adding it
-Editing from GIT - global repo
-
