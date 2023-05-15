@@ -9,3 +9,6 @@ commit
 then pull
 
 Code updated
+
+This is code update from release branch
+
