@@ -1,0 +1,9 @@
+We need to add this file
+stash
+list
+pop
+commit
+
+
+
+then pull
